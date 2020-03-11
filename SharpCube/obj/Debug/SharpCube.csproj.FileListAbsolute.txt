@@ -1,0 +1,15 @@
+C:\Code\C#\SharpCube\SharpCube\bin\Debug\SharpCube.exe.config
+C:\Code\C#\SharpCube\SharpCube\bin\Debug\SharpCube.exe
+C:\Code\C#\SharpCube\SharpCube\bin\Debug\SharpCube.pdb
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.csprojAssemblyReference.cache
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\MainWindow.g.cs
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\App.g.cs
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube_MarkupCompile.cache
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube_MarkupCompile.lref
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\MainWindow.baml
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.g.resources
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.Properties.Resources.resources
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.csproj.GenerateResource.cache
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.exe
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.pdb
+C:\Code\C#\SharpCube\SharpCube\obj\Debug\SharpCube.Resource.resources
